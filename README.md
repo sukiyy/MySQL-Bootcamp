@@ -1,2 +1,6 @@
 # MySQL-Bootcamp
-The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert. Become an In-demand SQL Master by creating complex databases and building reports through real-world projects
+Create your own database or interact with existing databases
+Write complex SQL queries across multiple tables
+Build a web app using NodeJS and MySQL
+Model real-world data and generate reports using SQL
+Answer company performance or sales questions using data
